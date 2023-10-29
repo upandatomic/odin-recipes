@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    width: 75%;
+}
+
+h1 {
+    color: black;
+    font-size: 34px;
+}
+
+.list {
+    font-size: 18px;
+    margin: auto;
+    text-align: left;
+}
+
+.main.list {
+    display: list-item;
+    list-style-type: none;
+    text-align: center;
+}
+
+.ingredients {
+    list-style-type: square;
+    margin: auto;
+    width: 50%;
+}
+
+.list .steps {
+    list-style-type: lower-roman;
+}
+
+.description {
+    font-style: italic;
+    font-size: 18px;
+}
+
